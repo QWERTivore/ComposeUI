@@ -260,5 +260,3 @@ ComposeUI is designed to run on the Teensy 4.1 or any compatible Arduino board. 
 ComposeUI was created as a portfolio project to demonstrate my skills in C++ and embedded systems development. While I do not plan to actively maintain this project, I may occasionally update it to refine the system or move it closer to being a functional interface for an oscilloscope I hope to one day complete.
 
 This project was designed to address the pain points I encountered while working with LVGL, and I believe it offers a novel approach to simplifying UI development for embedded systems. I hope others find it useful and inspiring for their own projects.
-
-📄 [License](LICENSE.txt)
